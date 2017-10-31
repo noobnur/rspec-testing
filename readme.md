@@ -1,6 +1,6 @@
-#Using Rspec for Test-Driven Development
+# Using Rspec for Test-Driven Development
 
-##Getting Started
+## Getting Started
 
 * Fork and clone this repository
 * Run `bundle install` to install dependencies
@@ -9,7 +9,7 @@
 
 Take a look at the starter code. You'll see blueprints for two different classes within the `lib` folder, as well as tests in a `spec` folder for the implementation of these classes.
 
-##Requirements
+## Requirements
 
 Implement the classes so that the tests succeed, using TDD principles.
 
